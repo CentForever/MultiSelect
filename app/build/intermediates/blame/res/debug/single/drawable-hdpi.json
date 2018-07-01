@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Source\\test\\MultiSelect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checkbox_normal.png",
+        "source": "D:\\Source\\test\\MultiSelect\\app\\src\\main\\res\\drawable-hdpi\\checkbox_normal.png"
+    },
+    {
+        "merged": "D:\\Source\\test\\MultiSelect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\Source\\test\\MultiSelect\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Source\\test\\MultiSelect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checkbox_pressed.png",
+        "source": "D:\\Source\\test\\MultiSelect\\app\\src\\main\\res\\drawable-hdpi\\checkbox_pressed.png"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Source\\test\\MultiSelect\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\Source\\test\\MultiSelect\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Source\\test\\MultiSelect\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contacts_delete_list_item.xml",
+        "source": "D:\\Source\\test\\MultiSelect\\app\\src\\main\\res\\layout\\contacts_delete_list_item.xml"
+    },
+    {
+        "merged": "D:\\Source\\test\\MultiSelect\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contacts_delete_list_header.xml",
+        "source": "D:\\Source\\test\\MultiSelect\\app\\src\\main\\res\\layout\\contacts_delete_list_header.xml"
+    },
+    {
+        "merged": "D:\\Source\\test\\MultiSelect\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contacts_delete_activity.xml",
+        "source": "D:\\Source\\test\\MultiSelect\\app\\src\\main\\res\\layout\\contacts_delete_activity.xml"
+    }
+]

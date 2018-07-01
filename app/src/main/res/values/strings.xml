@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MultiSelectActivity!</string>
+    <string name="app_name">MultiSelect</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="select_all_text">Select all</string>
+    <string name="clearConfirmation_title">Delete</string>
+    <string name="clearConfirmation">Contacts will be deleted.</string>
+    <string name="clearProgress_title">Deleting....</string>
+
+</resources>

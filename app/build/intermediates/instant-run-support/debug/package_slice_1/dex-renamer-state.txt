@@ -1,0 +1,4 @@
+#Sun Jul 01 11:19:23 CST 2018
+base.0=D\:\\Source\\test\\MultiSelect\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1
+renamed.0=classes.dex
+file.0=D\:\\Source\\test\\MultiSelect\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1\\classes.dex
